@@ -8,3 +8,6 @@ function generatePassword(){
 }
 ```
 
+## Le résultat attendu doit être une chaine de caractères de 14 caractères minimum et 21 caractères maximum
+
+Attention ! Le nombre de caractères se doit d'être aléatoire à chaque envoi
