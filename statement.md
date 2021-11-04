@@ -1,11 +1,10 @@
 # Welcome!
 
-This Node.js template lets you get started quickly with a simple one-page playground.
+Dans cet exercice, vous allez devoir créer une fonction permettant de générer un mot de passe aléatoire
 
 ```javascript runnable
-console.log('Hello World!');
+function generatePassword(){
+    // Votre code ici
+}
 ```
 
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced Node.js template](https://tech.io/select-repo/442)
